@@ -1,3 +1,5 @@
+.rvmrc
+Gemfile.lock
 ytest_log
 pkg
 pkg/*
