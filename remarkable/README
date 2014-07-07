@@ -51,10 +51,6 @@ Choose your style!
 
 Remarkable adds the possibility to disable macros. So as you could do:
 
-  xit { should validate_presence_of(:name) }
-
-You can also do:
-
   xshould_validate_presence_of :name
 
 And it will show in your specs output:
